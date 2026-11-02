@@ -514,3 +514,8 @@ h6,
     padding-right: 0;
     border-right: none;
 }
+/* PulseFit: власні правки */
+.navbar-brand h1 { letter-spacing: 1px; }
+p { line-height: 1.7; }
+.btn { transition: all .3s ease; }
+.btn:hover { transform: translateY(-3px); }
